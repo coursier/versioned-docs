@@ -47,7 +47,7 @@ Alternatively on OS X, install it via homebrew, that puts the `coursier` launche
 
 ```bash
 $ brew tap coursier/formulas
-$ brew install --HEAD coursier/formulas/coursier
+$ brew install coursier/formulas/coursier
 ```
 
 ### Arch Linux
