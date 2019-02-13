@@ -1,6 +1,6 @@
 ---
 title: sbt-coursier
-id: version-1.1.0-M10-sbt-coursier
+id: version-1.1.0-M11-sbt-coursier
 original_id: sbt-coursier
 ---
 
@@ -26,7 +26,7 @@ not handle publishing for now.
 Directly add sbt-coursier to `project/plugins.sbt`, with
 
 ```scala
-addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M10")
+addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M11")
 ```
 
 #### Along other plugins
@@ -34,7 +34,7 @@ addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M10")
 Add sbt-coursier in the meta-build, by adding the following to `project/project/plugins.sbt`,
 
 ```scala
-addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M10")
+addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M11")
 ```
 
 This will use sbt-coursier to fetch sbt plugins from `project/*.sbt`. Then add sbt-coursier along the other
@@ -53,6 +53,6 @@ method is more straightforward than the above, as it applies to all projects at 
 Add the following to `~/.sbt/1.0/plugins/build.sbt`,
 
 ```scala
-addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M10")
+addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M11")
 ```
 

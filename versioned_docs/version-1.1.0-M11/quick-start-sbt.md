@@ -1,13 +1,13 @@
 ---
 title: sbt plugin
-id: version-1.1.0-M10-quick-start-sbt
+id: version-1.1.0-M11-quick-start-sbt
 original_id: quick-start-sbt
 ---
 
 Enable the sbt plugin by adding
 
 ```scala
-addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M10")
+addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.1.0-M11")
 ```
 
 either
