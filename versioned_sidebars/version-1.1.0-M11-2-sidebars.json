@@ -1,0 +1,41 @@
+{
+  "version-1.1.0-M11-2-docs": {
+    "Intro": [
+      "version-1.1.0-M11-2-overview",
+      "version-1.1.0-M11-2-overview-motivations",
+      "version-1.1.0-M11-2-overview-in-the-wild"
+    ],
+    "sbt plugins": [
+      "version-1.1.0-M11-2-sbt-coursier",
+      "version-1.1.0-M11-2-sbt-pgp-coursier"
+    ],
+    "Command-line": [
+      "version-1.1.0-M11-2-cli-overview",
+      "version-1.1.0-M11-2-cli-resolve",
+      "version-1.1.0-M11-2-cli-fetch",
+      "version-1.1.0-M11-2-cli-launch",
+      "version-1.1.0-M11-2-cli-bootstrap",
+      "version-1.1.0-M11-2-cli-native-bootstrap"
+    ],
+    "API": [
+      "version-1.1.0-M11-2-api",
+      "version-1.1.0-M11-2-api-low-level",
+      "version-1.1.0-M11-2-api-scala-js"
+    ],
+    "Other": [
+      "version-1.1.0-M11-2-cache",
+      "version-1.1.0-M11-2-ttl",
+      "version-1.1.0-M11-2-other-repositories",
+      "version-1.1.0-M11-2-other-proxy",
+      "version-1.1.0-M11-2-json-report",
+      "version-1.1.0-M11-2-extra",
+      "version-1.1.0-M11-2-limitations",
+      "version-1.1.0-M11-2-faq"
+    ],
+    "Development": [
+      "version-1.1.0-M11-2-dev-contributing",
+      "version-1.1.0-M11-2-dev-cli",
+      "version-1.1.0-M11-2-dev-website"
+    ]
+  }
+}
