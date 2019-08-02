@@ -1,0 +1,43 @@
+{
+  "version-2.0.0-RC3-docs": {
+    "Intro": [
+      "version-2.0.0-RC3-overview",
+      "version-2.0.0-RC3-overview-motivations",
+      "version-2.0.0-RC3-overview-in-the-wild"
+    ],
+    "sbt plugins": [
+      "version-2.0.0-RC3-sbt-coursier",
+      "version-2.0.0-RC3-sbt-pgp-coursier"
+    ],
+    "Command-line": [
+      "version-2.0.0-RC3-cli-overview",
+      "version-2.0.0-RC3-cli-resolve",
+      "version-2.0.0-RC3-cli-fetch",
+      "version-2.0.0-RC3-cli-launch",
+      "version-2.0.0-RC3-cli-bootstrap",
+      "version-2.0.0-RC3-cli-native-bootstrap"
+    ],
+    "API": [
+      "version-2.0.0-RC3-api",
+      "version-2.0.0-RC3-api-low-level",
+      "version-2.0.0-RC3-api-scala-js"
+    ],
+    "Other": [
+      "version-2.0.0-RC3-cache",
+      "version-2.0.0-RC3-ttl",
+      "version-2.0.0-RC3-other-repositories",
+      "version-2.0.0-RC3-other-credentials",
+      "version-2.0.0-RC3-other-proxy",
+      "version-2.0.0-RC3-json-report",
+      "version-2.0.0-RC3-extra",
+      "version-2.0.0-RC3-limitations",
+      "version-2.0.0-RC3-other-version-handling",
+      "version-2.0.0-RC3-faq"
+    ],
+    "Development": [
+      "version-2.0.0-RC3-dev-contributing",
+      "version-2.0.0-RC3-dev-cli",
+      "version-2.0.0-RC3-dev-website"
+    ]
+  }
+}
