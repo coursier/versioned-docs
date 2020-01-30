@@ -1,0 +1,43 @@
+{
+  "version-2.0.0-RC5-docs": {
+    "Intro": [
+      "version-2.0.0-RC5-overview",
+      "version-2.0.0-RC5-overview-motivations",
+      "version-2.0.0-RC5-overview-in-the-wild"
+    ],
+    "sbt plugins": [
+      "version-2.0.0-RC5-sbt-coursier",
+      "version-2.0.0-RC5-sbt-pgp-coursier"
+    ],
+    "Command-line": [
+      "version-2.0.0-RC5-cli-overview",
+      "version-2.0.0-RC5-cli-resolve",
+      "version-2.0.0-RC5-cli-fetch",
+      "version-2.0.0-RC5-cli-launch",
+      "version-2.0.0-RC5-cli-bootstrap",
+      "version-2.0.0-RC5-cli-native-bootstrap"
+    ],
+    "API": [
+      "version-2.0.0-RC5-api",
+      "version-2.0.0-RC5-api-low-level",
+      "version-2.0.0-RC5-api-scala-js"
+    ],
+    "Other": [
+      "version-2.0.0-RC5-cache",
+      "version-2.0.0-RC5-ttl",
+      "version-2.0.0-RC5-other-repositories",
+      "version-2.0.0-RC5-other-credentials",
+      "version-2.0.0-RC5-other-proxy",
+      "version-2.0.0-RC5-json-report",
+      "version-2.0.0-RC5-extra",
+      "version-2.0.0-RC5-limitations",
+      "version-2.0.0-RC5-other-version-handling",
+      "version-2.0.0-RC5-faq"
+    ],
+    "Development": [
+      "version-2.0.0-RC5-dev-contributing",
+      "version-2.0.0-RC5-dev-cli",
+      "version-2.0.0-RC5-dev-website"
+    ]
+  }
+}
