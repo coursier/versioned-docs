@@ -38,7 +38,7 @@ Download and run the coursier launcher with
 ```bash
 $ curl -Lo cs https://git.io/coursier-cli-macos &&
     chmod +x cs &&
-    xattr -d com.apple.quarantine cs &&
+    (xattr -d com.apple.quarantine cs || true) &&
     ./cs --help
 ```
 
