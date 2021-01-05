@@ -1,0 +1,47 @@
+{
+  "version-2.0.8-docs": {
+    "Intro": [
+      "version-2.0.8-overview",
+      "version-2.0.8-overview-motivations",
+      "version-2.0.8-overview-in-the-wild"
+    ],
+    "sbt plugins": [
+      "version-2.0.8-sbt-coursier",
+      "version-2.0.8-sbt-pgp-coursier"
+    ],
+    "Command-line": [
+      "version-2.0.8-cli-overview",
+      "version-2.0.8-cli-installation",
+      "version-2.0.8-cli-complete",
+      "version-2.0.8-cli-resolve",
+      "version-2.0.8-cli-fetch",
+      "version-2.0.8-cli-launch",
+      "version-2.0.8-cli-bootstrap",
+      "version-2.0.8-cli-install",
+      "version-2.0.8-cli-java",
+      "version-2.0.8-cli-setup"
+    ],
+    "API": [
+      "version-2.0.8-api",
+      "version-2.0.8-api-low-level",
+      "version-2.0.8-api-scala-js"
+    ],
+    "Other": [
+      "version-2.0.8-cache",
+      "version-2.0.8-ttl",
+      "version-2.0.8-other-repositories",
+      "version-2.0.8-other-credentials",
+      "version-2.0.8-other-proxy",
+      "version-2.0.8-json-report",
+      "version-2.0.8-extra",
+      "version-2.0.8-limitations",
+      "version-2.0.8-other-version-handling",
+      "version-2.0.8-faq"
+    ],
+    "Development": [
+      "version-2.0.8-dev-contributing",
+      "version-2.0.8-dev-cli",
+      "version-2.0.8-dev-website"
+    ]
+  }
+}
