@@ -1,0 +1,49 @@
+{
+  "version-2.1.0-M2-19-g5a34ba7c1-docs": {
+    "Intro": [
+      "version-2.1.0-M2-19-g5a34ba7c1-overview"
+    ],
+    "Command-line": [
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-overview",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-installation",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-install",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-launch",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-bootstrap",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-java",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-resolve",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-fetch",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-complete",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-setup",
+      "version-2.1.0-M2-19-g5a34ba7c1-cli-appdescriptors"
+    ],
+    "Motivation": [
+      "version-2.1.0-M2-19-g5a34ba7c1-overview-motivations",
+      "version-2.1.0-M2-19-g5a34ba7c1-overview-in-the-wild"
+    ],
+    "sbt plugins": [
+      "version-2.1.0-M2-19-g5a34ba7c1-sbt-coursier",
+      "version-2.1.0-M2-19-g5a34ba7c1-sbt-pgp-coursier"
+    ],
+    "API": [
+      "version-2.1.0-M2-19-g5a34ba7c1-api",
+      "version-2.1.0-M2-19-g5a34ba7c1-api-low-level",
+      "version-2.1.0-M2-19-g5a34ba7c1-api-scala-js"
+    ],
+    "Other": [
+      "version-2.1.0-M2-19-g5a34ba7c1-cache",
+      "version-2.1.0-M2-19-g5a34ba7c1-ttl",
+      "version-2.1.0-M2-19-g5a34ba7c1-other-repositories",
+      "version-2.1.0-M2-19-g5a34ba7c1-other-credentials",
+      "version-2.1.0-M2-19-g5a34ba7c1-other-proxy",
+      "version-2.1.0-M2-19-g5a34ba7c1-json-report",
+      "version-2.1.0-M2-19-g5a34ba7c1-extra",
+      "version-2.1.0-M2-19-g5a34ba7c1-limitations",
+      "version-2.1.0-M2-19-g5a34ba7c1-other-version-handling",
+      "version-2.1.0-M2-19-g5a34ba7c1-faq"
+    ],
+    "Development": [
+      "version-2.1.0-M2-19-g5a34ba7c1-dev-contributing",
+      "version-2.1.0-M2-19-g5a34ba7c1-dev-website"
+    ]
+  }
+}
