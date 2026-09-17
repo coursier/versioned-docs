@@ -1,0 +1,51 @@
+{
+  "version-2.1.25-docs": {
+    "Intro": [
+      "version-2.1.25-overview"
+    ],
+    "Command-line": [
+      "version-2.1.25-cli-overview",
+      "version-2.1.25-cli-installation",
+      "version-2.1.25-cli-install",
+      "version-2.1.25-cli-launch",
+      "version-2.1.25-cli-bootstrap",
+      "version-2.1.25-cli-java",
+      "version-2.1.25-cli-resolve",
+      "version-2.1.25-cli-fetch",
+      "version-2.1.25-cli-complete",
+      "version-2.1.25-cli-setup",
+      "version-2.1.25-cli-appdescriptors"
+    ],
+    "Motivation": [
+      "version-2.1.25-overview-motivations",
+      "version-2.1.25-overview-in-the-wild"
+    ],
+    "sbt plugins": [
+      "version-2.1.25-sbt-coursier",
+      "version-2.1.25-sbt-pgp-coursier"
+    ],
+    "API": [
+      "version-2.1.25-api",
+      "version-2.1.25-api-low-level",
+      "version-2.1.25-api-scala-js"
+    ],
+    "Other": [
+      "version-2.1.25-cache",
+      "version-2.1.25-ttl",
+      "version-2.1.25-other-retries",
+      "version-2.1.25-other-repositories",
+      "version-2.1.25-other-mirrors",
+      "version-2.1.25-other-credentials",
+      "version-2.1.25-other-proxy",
+      "version-2.1.25-json-report",
+      "version-2.1.25-extra",
+      "version-2.1.25-limitations",
+      "version-2.1.25-other-version-handling",
+      "version-2.1.25-faq"
+    ],
+    "Development": [
+      "version-2.1.25-dev-contributing",
+      "version-2.1.25-dev-website"
+    ]
+  }
+}
