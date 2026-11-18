@@ -1,7 +1,5 @@
 ---
 title: launch
-id: version-2.0.0-RC6-12-cli-launch
-original_id: cli-launch
 ---
 
 `launch` launches applications from one or more dependencies.

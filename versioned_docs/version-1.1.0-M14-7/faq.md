@@ -1,7 +1,5 @@
 ---
 title: FAQ
-id: version-1.1.0-M14-7-faq
-original_id: faq
 ---
 
 *Direct former README import (possibly not up-to-date)*

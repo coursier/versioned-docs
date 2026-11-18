@@ -1,7 +1,5 @@
 ---
 title: java
-id: version-2.0.0-RC6-22-cli-java
-original_id: cli-java
 ---
 
 The `java` and `java-home` commands fetch and install JVMs.

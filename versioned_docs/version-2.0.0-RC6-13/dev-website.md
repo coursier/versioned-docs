@@ -1,7 +1,5 @@
 ---
 title: Website
-id: version-2.0.0-RC6-13-dev-website
-original_id: dev-website
 ---
 
 The website relies on [docusaurus](https://docusaurus.io) and

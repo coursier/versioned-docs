@@ -1,7 +1,5 @@
 ---
 title: API
-id: version-2.0.0-RC2-2-quick-start-api
-original_id: quick-start-api
 ---
 
 Add to your `build.sbt`

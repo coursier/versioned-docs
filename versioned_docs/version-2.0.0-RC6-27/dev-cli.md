@@ -1,7 +1,5 @@
 ---
 title: CLI
-id: version-2.0.0-RC6-27-dev-cli
-original_id: dev-cli
 ---
 
 coursier relies on [sbt-pack](https://github.com/xerial/sbt-pack) to build

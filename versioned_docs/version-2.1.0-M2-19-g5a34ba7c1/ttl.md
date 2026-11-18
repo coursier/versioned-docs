@@ -1,7 +1,5 @@
 ---
 title: TTL
-id: version-2.1.0-M2-19-g5a34ba7c1-ttl
-original_id: ttl
 ---
 
 Changing things in cache are given a time-to-live (TTL) of **24 hours** by default.

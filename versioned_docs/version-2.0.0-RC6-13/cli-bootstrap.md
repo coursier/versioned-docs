@@ -1,7 +1,5 @@
 ---
 title: bootstrap
-id: version-2.0.0-RC6-13-cli-bootstrap
-original_id: cli-bootstrap
 ---
 
 `bootstrap` creates binary launchers from one or more dependencies.

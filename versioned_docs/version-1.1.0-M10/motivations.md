@@ -1,7 +1,5 @@
 ---
 title: Why?
-id: version-1.1.0-M10-motivations
-original_id: motivations
 ---
 
 *Direct former README import (possibly not up-to-date)*

@@ -1,7 +1,5 @@
 ---
 title: sbt-coursier
-id: version-2.0.0-RC5-3-sbt-coursier
-original_id: sbt-coursier
 ---
 
 `sbt-coursier` ensures one's dependencies are fetched via coursier rather

@@ -1,7 +1,5 @@
 ---
 title: Installation
-id: version-2.1.0-M6-28-gbad85693f-cli-installation
-original_id: cli-installation
 ---
 
 These instructions will install the coursier CLI `cs` itself, as well as a typical Scala development environment.

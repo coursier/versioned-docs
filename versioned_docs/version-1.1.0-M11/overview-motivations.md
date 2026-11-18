@@ -1,7 +1,5 @@
 ---
 title: Motivations
-id: version-1.1.0-M11-overview-motivations
-original_id: overview-motivations
 ---
 
 In contrast to libraries out there allowing to interact with Maven or Ivy

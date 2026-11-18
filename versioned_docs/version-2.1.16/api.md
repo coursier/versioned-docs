@@ -1,7 +1,5 @@
 ---
 title: API
-id: version-2.1.16-api
-original_id: api
 ---
 
 > This page describes the new high level API of coursier, being added since

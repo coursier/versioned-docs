@@ -1,7 +1,5 @@
 ---
 title: API
-id: version-2.1.0-M6-26-gcec901e9a-api
-original_id: api
 ---
 
 > This page describes the new high level API of coursier, being added since

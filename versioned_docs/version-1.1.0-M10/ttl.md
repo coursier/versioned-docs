@@ -1,7 +1,5 @@
 ---
 title: TTL
-id: version-1.1.0-M10-ttl
-original_id: ttl
 ---
 
 Changing things in cache are given a time-to-live (TTL) of **24 hours** by default. Changing things are artifacts for versions ending with `-SNAPSHOT`, Maven metadata files listing available versions, etc.

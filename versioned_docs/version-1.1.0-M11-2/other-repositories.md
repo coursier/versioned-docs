@@ -1,7 +1,5 @@
 ---
 title: Repositories
-id: version-1.1.0-M11-2-other-repositories
-original_id: other-repositories
 ---
 
 In the CLI and the high level API, the default repositories are

@@ -1,7 +1,5 @@
 ---
 title: JSON report
-id: version-1.1.0-M10-json-report
-original_id: json-report
 ---
 
 When invoking coursier cli with

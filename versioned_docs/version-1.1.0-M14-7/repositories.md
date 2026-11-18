@@ -1,7 +1,5 @@
 ---
 title: Repositories
-id: version-1.1.0-M14-7-repositories
-original_id: repositories
 ---
 
 *Direct former README import (possibly not up-to-date)*

@@ -1,7 +1,5 @@
 ---
 title: Users
-id: version-1.1.0-M10-users
-original_id: users
 ---
 
 - [scastie](https://github.com/scalacenter/scastie) and [scalafiddle](https://scalafiddle.io) both use coursier to handle dependencies added by users

@@ -1,7 +1,5 @@
 ---
 title: Contributing
-id: version-2.0.0-RC6-27-dev-contributing
-original_id: dev-contributing
 ---
 
 See the [up-to-date list of contributors on

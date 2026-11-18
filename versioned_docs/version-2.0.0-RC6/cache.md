@@ -1,7 +1,5 @@
 ---
 title: Cache
-id: version-2.0.0-RC6-cache
-original_id: cache
 ---
 
 ## Path format

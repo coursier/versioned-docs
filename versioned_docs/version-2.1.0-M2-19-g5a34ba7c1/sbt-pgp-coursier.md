@@ -1,7 +1,5 @@
 ---
 title: sbt-pgp-coursier
-id: version-2.1.0-M2-19-g5a34ba7c1-sbt-pgp-coursier
-original_id: sbt-pgp-coursier
 ---
 
 This plugin is meant to be used in conjunction with [sbt-pgp](https://github.com/sbt/sbt-pgp). [sbt-pgp](https://github.com/sbt/sbt-pgp) has a `checkPgpSignatures` command, that can validate

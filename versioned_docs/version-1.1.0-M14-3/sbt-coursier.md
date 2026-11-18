@@ -1,7 +1,5 @@
 ---
 title: sbt-coursier
-id: version-1.1.0-M14-3-sbt-coursier
-original_id: sbt-coursier
 ---
 
 `sbt-coursier` ensures one's dependencies are fetched via coursier rather

@@ -1,7 +1,5 @@
 ---
 title: install
-id: version-2.0.0-RC6-12-cli-install
-original_id: cli-install
 ---
 
 The `install` command installs launchers for JVM-based applications.

@@ -1,7 +1,5 @@
 ---
 title: complete-dep
-id: version-2.1.0-M6-49-gff26f8e39-cli-complete
-original_id: cli-complete
 ---
 
 `complete-dep` allows one to complete _Maven_ coordinates.

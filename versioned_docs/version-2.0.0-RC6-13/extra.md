@@ -1,7 +1,5 @@
 ---
 title: Extra
-id: version-2.0.0-RC6-13-extra
-original_id: extra
 ---
 
 *Direct former README import (possibly not up-to-date)*

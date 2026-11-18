@@ -1,7 +1,5 @@
 ---
 title: Cache
-id: version-2.1.0-M2-19-g5a34ba7c1-cache
-original_id: cache
 ---
 
 ## Path format

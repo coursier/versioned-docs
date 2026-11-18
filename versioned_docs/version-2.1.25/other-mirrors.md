@@ -1,7 +1,5 @@
 ---
 title: Repository mirrors
-id: version-2.1.25-other-mirrors
-original_id: other-mirrors
 ---
 
 Repository mirrors replace repositories before coursier starts resolving dependencies. They are

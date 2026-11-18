@@ -1,7 +1,5 @@
 ---
 title: setup
-id: version-2.0.0-RC6-12-cli-setup
-original_id: cli-setup
 ---
 
 The `setup` command aims at making it easier to setup a machine for

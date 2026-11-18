@@ -1,7 +1,5 @@
 ---
 title: FAQ
-id: version-2.0.0-RC6-faq
-original_id: faq
 ---
 
 *Direct former README import (possibly not up-to-date)*

@@ -1,7 +1,5 @@
 ---
 title: CLI
-id: version-1.1.0-M10-dev-cli
-original_id: dev-cli
 ---
 
 coursier relies on [sbt-pack](https://github.com/xerial/sbt-pack) to build

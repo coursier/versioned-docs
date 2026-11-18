@@ -1,8 +1,6 @@
 ---
 title: Overview
 hide_title: true
-id: version-2.0.0-RC3-2-overview
-original_id: overview
 ---
 
 # coursier

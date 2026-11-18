@@ -1,7 +1,5 @@
 ---
 title: Usage
-id: version-1.1.0-M11-api
-original_id: api
 ---
 
 *Direct former README import (possibly not up-to-date)*

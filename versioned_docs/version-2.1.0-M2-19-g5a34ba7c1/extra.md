@@ -1,7 +1,5 @@
 ---
 title: Extra
-id: version-2.1.0-M2-19-g5a34ba7c1-extra
-original_id: extra
 ---
 
 *Direct former README import (possibly not up-to-date)*

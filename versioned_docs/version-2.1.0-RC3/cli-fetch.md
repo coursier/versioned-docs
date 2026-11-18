@@ -1,7 +1,5 @@
 ---
 title: fetch
-id: version-2.1.0-RC3-cli-fetch
-original_id: cli-fetch
 ---
 
 `fetch` fetches the JARs of one or more dependencies. Use it like

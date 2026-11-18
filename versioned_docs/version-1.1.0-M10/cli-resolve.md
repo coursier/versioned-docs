@@ -1,7 +1,5 @@
 ---
 title: resolve
-id: version-1.1.0-M10-cli-resolve
-original_id: cli-resolve
 ---
 
 The `resolve` command resolves then prints the transitive dependencies of one

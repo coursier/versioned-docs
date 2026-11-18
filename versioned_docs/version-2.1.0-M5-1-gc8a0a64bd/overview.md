@@ -1,8 +1,6 @@
 ---
 title: Overview
 hide_title: true
-id: version-2.1.0-M5-1-gc8a0a64bd-overview
-original_id: overview
 ---
 
 # coursier

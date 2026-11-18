@@ -1,7 +1,5 @@
 ---
 title: fetch
-id: version-1.1.0-M13-1-cli-fetch
-original_id: cli-fetch
 ---
 
 The `fetch` command, like the [`resolve` command](cli-resolve.md), resolves

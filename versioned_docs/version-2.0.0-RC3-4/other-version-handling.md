@@ -1,7 +1,5 @@
 ---
 title: Version handling
-id: version-2.0.0-RC3-4-other-version-handling
-original_id: other-version-handling
 ---
 
 This page aims at describing how versions are reconciled and compared

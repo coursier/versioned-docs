@@ -1,7 +1,5 @@
 ---
 title: bootstrap
-id: version-1.1.0-M10-cli-bootstrap
-original_id: cli-bootstrap
 ---
 
 Like the [`fetch` command](cli-fetch.md), `bootstrap` resolves and fetches the

@@ -1,7 +1,5 @@
 ---
 title: Repositories
-id: version-2.0.0-RC6-13-other-repositories
-original_id: other-repositories
 ---
 
 In the CLI and the high level API, the default repositories are

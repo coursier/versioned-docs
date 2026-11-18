@@ -1,7 +1,5 @@
 ---
 title: launch
-id: version-1.1.0-M10-cli-launch
-original_id: cli-launch
 ---
 
 Like the [`fetch` command](cli-fetch.md), `launch` resolves and fetches the

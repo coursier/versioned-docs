@@ -1,7 +1,5 @@
 ---
 title: launch
-id: version-2.1.0-M2-19-g5a34ba7c1-cli-launch
-original_id: cli-launch
 ---
 
 `launch` launches applications from their name, or directly from one or more Maven dependencies.

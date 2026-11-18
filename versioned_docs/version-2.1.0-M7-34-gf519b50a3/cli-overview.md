@@ -1,7 +1,5 @@
 ---
 title: Overview
-id: version-2.1.0-M7-34-gf519b50a3-cli-overview
-original_id: cli-overview
 ---
 
 The CLI of coursier is the Scala application and artifact manager.

@@ -1,7 +1,5 @@
 ---
 title: Users
-id: version-1.1.0-M11-2-overview-in-the-wild
-original_id: overview-in-the-wild
 ---
 
 One can spot plenty of Scala-related projects using coursier in the wild. Here are a few of them.

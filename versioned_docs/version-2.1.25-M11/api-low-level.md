@@ -1,7 +1,5 @@
 ---
 title: Low-level API
-id: version-2.1.25-M11-api-low-level
-original_id: api-low-level
 ---
 
 > This page is a direct import of sections of the [former README](https://github.com/coursier/coursier/blob/9bc34e2e60a7ec8d49e912e81cf8f02d1620e63c/README.md) of coursier, and is possibly not up-to-date. The use of [mdoc](https://github.com/scalameta/mdoc) ensures the code snippets below compile fine with the latest version though.

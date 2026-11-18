@@ -1,7 +1,5 @@
 ---
 title: Proxy
-id: version-2.1.25-other-proxy
-original_id: other-proxy
 ---
 
 By default, coursier relies on [`java.net.HttpURLConnection`](https://docs.oracle.com/javase/8/docs/api/java/net/HttpURLConnection.html)

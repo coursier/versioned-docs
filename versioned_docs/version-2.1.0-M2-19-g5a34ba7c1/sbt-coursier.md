@@ -1,7 +1,5 @@
 ---
 title: sbt-coursier
-id: version-2.1.0-M2-19-g5a34ba7c1-sbt-coursier
-original_id: sbt-coursier
 ---
 
 sbt 1.3.x ships with coursier support out-of-the-box, and that support

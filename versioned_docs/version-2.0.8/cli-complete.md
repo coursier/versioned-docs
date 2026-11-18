@@ -1,7 +1,5 @@
 ---
 title: complete
-id: version-2.0.8-cli-complete
-original_id: cli-complete
 ---
 
 `complete` allows one to complete _Maven_ coordinates.

@@ -1,8 +1,6 @@
 ---
 title: Overview
 hide_title: true
-id: version-2.0.0-RC6-11-cli-overview
-original_id: cli-overview
 ---
 
 # CLI

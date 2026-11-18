@@ -1,7 +1,5 @@
 ---
 title: Installation
-id: version-2.0.0-RC6-20-cli-installation
-original_id: cli-installation
 ---
 
 ## Native launcher

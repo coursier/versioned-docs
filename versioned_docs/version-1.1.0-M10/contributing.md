@@ -1,7 +1,5 @@
 ---
 title: Contributing
-id: version-1.1.0-M10-contributing
-original_id: contributing
 ---
 
 See the [up-to-date list of contributors on GitHub](https://github.com/coursier/coursier/graphs/contributors).

@@ -1,7 +1,5 @@
 ---
 title: Limitations
-id: version-1.1.0-M14-7-limitations
-original_id: limitations
 ---
 
 *Direct former README import (possibly not up-to-date)*

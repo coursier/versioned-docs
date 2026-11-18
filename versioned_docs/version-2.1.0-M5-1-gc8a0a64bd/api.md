@@ -1,7 +1,5 @@
 ---
 title: API
-id: version-2.1.0-M5-1-gc8a0a64bd-api
-original_id: api
 ---
 
 > This page describes the new high level API of coursier, being added since

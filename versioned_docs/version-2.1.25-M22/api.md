@@ -1,7 +1,5 @@
 ---
 title: API
-id: version-2.1.25-M22-api
-original_id: api
 ---
 
 > This page describes the new high level API of coursier, being added since

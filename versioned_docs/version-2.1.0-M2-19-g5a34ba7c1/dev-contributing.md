@@ -1,7 +1,5 @@
 ---
 title: Contributing
-id: version-2.1.0-M2-19-g5a34ba7c1-dev-contributing
-original_id: dev-contributing
 ---
 
 See the [up-to-date list of contributors on

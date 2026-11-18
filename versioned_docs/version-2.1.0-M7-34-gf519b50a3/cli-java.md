@@ -1,7 +1,5 @@
 ---
 title: java
-id: version-2.1.0-M7-34-gf519b50a3-cli-java
-original_id: cli-java
 ---
 
 The `java` and `java-home` commands fetch and install JVMs.

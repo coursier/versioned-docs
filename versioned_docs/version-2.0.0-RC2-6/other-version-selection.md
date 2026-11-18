@@ -1,7 +1,5 @@
 ---
 title: Version reconciliation
-id: version-2.0.0-RC2-6-other-version-selection
-original_id: other-version-selection
 ---
 
 This page aims at describing how versions are reconciled in coursier,

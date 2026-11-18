@@ -1,7 +1,5 @@
 ---
 title: scala-native bootstrap
-id: version-2.0.0-RC6-cli-native-bootstrap
-original_id: cli-native-bootstrap
 ---
 
 The `bootstrap` command of coursier can generate

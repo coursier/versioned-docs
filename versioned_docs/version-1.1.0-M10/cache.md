@@ -1,7 +1,5 @@
 ---
 title: Cache
-id: version-1.1.0-M10-cache
-original_id: cache
 ---
 
 ## Path format

@@ -1,7 +1,5 @@
 ---
 title: Retries and rate limiting
-id: version-2.1.26-other-retries
-original_id: other-retries
 ---
 
 Coursier fetches metadata and artifacts over HTTP. Repositories occasionally fail a request, and

@@ -1,7 +1,5 @@
 ---
 title: Credentials
-id: version-2.0.0-RC6-22-other-credentials
-original_id: other-credentials
 ---
 
 Credentials can be passed either:

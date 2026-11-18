@@ -1,7 +1,5 @@
 ---
 title: API
-id: version-1.1.0-M14-5-quick-start-api
-original_id: quick-start-api
 ---
 
 Add to your `build.sbt`

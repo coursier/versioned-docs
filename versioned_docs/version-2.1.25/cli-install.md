@@ -1,7 +1,5 @@
 ---
 title: install
-id: version-2.1.25-cli-install
-original_id: cli-install
 ---
 
 The `install` command installs Scala applications in the

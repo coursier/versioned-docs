@@ -1,7 +1,5 @@
 ---
 title: Installation
-id: version-2.1.0-M2-19-g5a34ba7c1-cli-installation
-original_id: cli-installation
 ---
 
 These instructions will install the coursier CLI `cs` itself, as well as a typical Scala development environment.

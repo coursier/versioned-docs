@@ -1,7 +1,5 @@
 ---
 title: Command-line
-id: version-1.1.0-M11-quick-start-cli
-original_id: quick-start-cli
 ---
 
 ## Installation

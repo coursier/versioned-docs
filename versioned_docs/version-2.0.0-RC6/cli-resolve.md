@@ -1,7 +1,5 @@
 ---
 title: resolve
-id: version-2.0.0-RC6-cli-resolve
-original_id: cli-resolve
 ---
 
 The `resolve` command resolves then prints the transitive dependencies of one

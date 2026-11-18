@@ -1,7 +1,5 @@
 ---
 title: sbt plugin
-id: version-1.1.0-M14-3-quick-start-sbt
-original_id: quick-start-sbt
 ---
 
 Enable the sbt plugin by adding

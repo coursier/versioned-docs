@@ -1,7 +1,5 @@
 ---
 title: sbt plugin
-id: version-2.0.0-RC2-3-quick-start-sbt
-original_id: quick-start-sbt
 ---
 
 Enable the sbt plugin by adding

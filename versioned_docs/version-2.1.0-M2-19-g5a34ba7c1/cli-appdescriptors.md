@@ -1,7 +1,5 @@
 ---
 title: Application descriptors
-id: version-2.1.0-M2-19-g5a34ba7c1-cli-appdescriptors
-original_id: cli-appdescriptors
 ---
 
 The [`install`](cli-install.md) command goes from an application name (`scala`, `ammonite`, `scalafmt`, etc.)

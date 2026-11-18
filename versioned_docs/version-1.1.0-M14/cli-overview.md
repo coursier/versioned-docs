@@ -1,8 +1,6 @@
 ---
 title: Overview
 hide_title: true
-id: version-1.1.0-M14-cli-overview
-original_id: cli-overview
 ---
 
 # CLI

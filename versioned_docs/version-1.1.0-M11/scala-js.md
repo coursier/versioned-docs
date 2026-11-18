@@ -1,7 +1,5 @@
 ---
 title: Scala.js
-id: version-1.1.0-M11-scala-js
-original_id: scala-js
 ---
 
 The core modules of coursier are cross-compiled and published for

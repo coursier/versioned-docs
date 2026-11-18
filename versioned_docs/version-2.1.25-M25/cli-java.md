@@ -1,7 +1,5 @@
 ---
 title: java
-id: version-2.1.25-M25-cli-java
-original_id: cli-java
 ---
 
 The `java` and `java-home` commands fetch and install JVMs.

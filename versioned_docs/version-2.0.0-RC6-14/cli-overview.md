@@ -1,7 +1,5 @@
 ---
 title: Overview
-id: version-2.0.0-RC6-14-cli-overview
-original_id: cli-overview
 ---
 
 The CLI of coursier has a number of commands to deal with dependencies and artifacts:
